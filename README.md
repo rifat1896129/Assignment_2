@@ -17,6 +17,12 @@ Install node.js
 
 ### Caution: You must have the .env file to run this project
 
+## Test Cases
+https://docs.google.com/spreadsheets/d/1gViOE83FE6p0b4ATrHsHNPJXQw9J8uFD/edit?usp=drive_link&ouid=111759016841122447918&rtpof=true&sd=true
+
+## Bug Report
+https://docs.google.com/spreadsheets/d/1p8IpY0dIvZ0Z2mStkSLi66FGmECEVwSe/edit?usp=drive_link&ouid=111759016841122447918&rtpof=true&sd=true
+
 ## Documentation Attachment
 https://documenter.getpostman.com/view/45547464/2sB2x5HtCi
 
